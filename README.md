@@ -12,9 +12,9 @@ This project implements a Polynomial Abstract Data Type (ADT) using doubly-linke
 - Provide an option for users to substitute a value for the variable term in the equation.
 
 ## Input File Example: equations.txt
-   2x^7 + 10x^5 - 10x^3 + 2x + 1
-   -15x^7 - 10x^5 + 90x^2 - 2
-   2x^2 + x - 1
+  1. 2x^7 + 10x^5 - 10x^3 + 2x + 1
+  2. -15x^7 - 10x^5 + 90x^2 - 2
+  3. 2x^2 + x - 1
 
 ## Usage
 
